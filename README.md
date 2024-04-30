@@ -56,5 +56,6 @@ también hay emojis. :+1: o :shipit: por ejemplo
 > [!WARNING]
 > Para que Urko no se enfade
 
-[!CAUTION]
-porque tiene caracter
+> [!CAUTION]
+> porque tiene caracter
+
