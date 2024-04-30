@@ -14,7 +14,6 @@ git status
 git commit -m "Este es el proceso que tenemos que aprendernos"
 ```
 
-
 Y si quereis poner un link tendreis que poner [Nombre que aparecerá](https://leonardo.ai/faq/)
 
 ![Aquí ponemos una pequeña descripción de la imagen para las personas que no pueden ver y para que el buscador nos posicione mejor]
